@@ -1,3 +1,3 @@
 # DB_Visualization
 
-This is a for fun project. I just wanted to shw how to make your database to look pretty :)
+This is for fun project. I just wanted to show how to make your database to look pretty and more meaningfull than just tables and rows :)
